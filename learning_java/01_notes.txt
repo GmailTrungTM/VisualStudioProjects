@@ -1,0 +1,67 @@
+*dependency
+*independency
+*object oriented programming
+*objects
+  identity/name
+  properties/variables
+  functionality/behavior
+  -> Map Real World Problems To Software Solutions
+*object oriented principles
+  encapsulation
+  inheritance 
+  abstraction
+  polymorphism
+*encapsulation
+  class
+  properties/variables
+  functionality/methods
+*inheritance 
+  creating new object with the help of an existing object (extends)
+  accessing existing objects functionality
+  updating existing objects functionality
+  re-usability and is-a relation
+*abstraction
+  hiding unnecessary details of an object, showing only the essential 
+  features that one object needs to communicate with another object
+  (interface)
+*polymorphism
+  multi shapes/behavior
+  function overloading overwriting 
+
+*building blocks of a java application 
+  class
+  variables
+  methods
+  blocks
+class identity {
+  variables 
+  methods static/non static
+  blocks
+}
+variables
+  variables point to a memory location where data is stored
+  syntax:
+    data_type identity;
+  example: 
+    int a = 100;
+  non-static
+    different for each object 
+  static 
+    variables are common across objects
+*methods
+  set of programming instructions 
+  take input and give output 
+  syntax:
+    return_type identity (arglist){
+
+    }
+  example:
+    int add(int a, int b){
+      int sum = a + b; 
+      return sum;
+    }
+  four types of methods
+    void methodName(void) - no arguments, no return 
+    int methodName(void) - no arguments, output 
+    int methodName(int) - input, output 
+    void methodName(int) -take input, no output

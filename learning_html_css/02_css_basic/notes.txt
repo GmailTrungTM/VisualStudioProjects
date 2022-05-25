@@ -1,0 +1,42 @@
+will look at fundamental CSS properties
+
+goal is to get you to really understand what is going on rather 
+than just create a website and have you follow along 
+
+-implementing CSS
+-using selectors
+-fonts, colors, etc
+-backgrounds & borders
+-box model/margin & padding
+-floating & alignment 
+-display property
+-link & button styling 
+-creating menus
+-positioning 
+-form styling 
+-dev tools
+
+-set of files for each lectures
+-keep as a resource to go back to if needed
+
+CSS Syntax 
+selector property value 
+declaration start, property/value separator, declaration separator
+
+cm
+mm
+in
+px
+pc
+
+%
+em
+rem
+vw
+vh
+
+static - not effected by tblr(top, bottom, left, right) properties/values
+relative - tblr values cause element to be moved from its normal position
+absolute - positioned relative to its parent element that is positioned "relative"
+fixed - positioned relative to the viewport
+sticky - positioned based on scroll position
