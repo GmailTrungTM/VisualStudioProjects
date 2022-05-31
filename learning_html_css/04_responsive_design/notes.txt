@@ -1,0 +1,13 @@
+Responsive Design 
+* using HTML/CSS to make a website or app layout adapt to different 
+screen sizes
+*it is a necessity to build responsive layouts
+*layouts should render on any form factor 
+
+Practices To Use
+* set the viewport/scale
+* use fluid widths as oppose to fixed
+* media queries - different css styling for different screen sizes
+* rem units over px
+* mobile first method
+
