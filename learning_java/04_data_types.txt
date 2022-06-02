@@ -1,0 +1,49 @@
+Data Types
+
+data_type identifier;
+int a;
+
+Primitive Types
+byte
+short
+int
+long
+char
+float
+double 
+
+Reference Types
+class
+Array
+String
+etc 
+
+Type Casting
+
+Primitive
+implicit
+  lower -> higher
+  byte -> int 
+explicit
+  higher -> lower 
+  int -> byte
+
+Reference
+implicit
+  child -> parent 
+explicit
+  parent -> child
+
+
+Identifiers
+a-z
+A-z
+0-9
+_ 
+$
+
+No
+Other Symbols
+Keywords
+Start with number 
+Spaces

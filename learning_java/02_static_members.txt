@@ -1,1 +1,15 @@
 STATIC AND NON STATIC CONTEXTS
+* Static - Class Level
+* Non Static - Object Level
+
+Banking Example: 
+
+/nonstatic
+accountBalance
+withdraw()
+checkBalance()
+
+/static
+interest
+calculateInterest()
+

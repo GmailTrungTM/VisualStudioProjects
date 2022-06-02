@@ -1,0 +1,17 @@
+*Non Static Variable
+*Non Static Block
+*Non Static User Method
+*Constructor
+
+#Static Members
+*belong to the class
+*accessed using class name 
+*static block is executed at the time of class loading
+*memory is allocated and variables are initialized during class loading
+
+
+#Non-Static Members
+*Belong to the object
+*Accessed using the object name
+*Time of object creation
+*At time of object creation
