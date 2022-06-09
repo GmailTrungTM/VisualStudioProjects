@@ -1,0 +1,64 @@
+Unary: 
+++
+Increment
+Pre Increment 
+y=++x
+Post Increment 
+y=x++
+
+--
+Decrement 
+Pre Decrement 
+y=--x
+y=x--
+
+Arithmetic Operators
++ - * / %
+
+String Concatenation Operator: 
+Ex: 
+10 + 30 = 40
+"ab" + "cd" = abcd
+
+Comparison Operators
+< <= > >= Primitives
+== != Equality Primitives Objects 
+
+Bitwise Operators
+& returns true if both arguments are true
+| returns true if atleast one argument is true
+^ returns true if botha arguments are different 
+Boolean and Integer values
+
+4&5 100
+    101
+  4 100
+
+4|5 100
+    101
+  5 101
+
+4^5 100
+    101
+    001
+  
+~ Bitwise Unary Complement 
+10001
+01110
+
+! Boolean Complement 
+  true false
+
+Short Circuit Operators - &&, ||
+&, |
+Both the args should be evaluated
+Relatively performance is slow
+applicable for both integral and boolean types
+
+&&, ||
+Second arg evaluation is optional
+Faster
+Boolean Only
+
+Ternary Operator
+testExpression ? value1 : value2
